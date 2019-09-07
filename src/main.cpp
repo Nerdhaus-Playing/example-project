@@ -1,5 +1,5 @@
 #include <iostream>
-#incldue "exampleLib.h"
+#include "exampleLib.h"
 
 using namespace std;
 void main()
